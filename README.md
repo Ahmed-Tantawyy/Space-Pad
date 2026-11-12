@@ -12,15 +12,15 @@ Case from the top:
 Case from the bottom:
 <img width="772" height="645" alt="Screenshot 2026-10-15 013428" src="https://github.com/user-attachments/assets/e66648f5-7fc1-47db-b351-eafddbe3f02c" />
 
-Schematic:
+PCB Design:
 <img width="923" height="895" alt="Screenshot 2026-10-15 013149" src="https://github.com/user-attachments/assets/261c0e79-e7c9-492f-b8ec-5ede6471f501" />
 
-PCB Design:
+Schematic
 <img width="1708" height="861" alt="Screenshot 2026-10-15 013511" src="https://github.com/user-attachments/assets/2fe79d9e-05f1-4f5e-af46-82f773336659" />
 
-PCB in 3D from the top:
+PCB in 3D from the bottom:
 <img width="1033" height="971" alt="Screenshot 2026-10-15 013610" src="https://github.com/user-attachments/assets/6bac10da-a8a2-4a53-a358-bebb9e9bf8b9" />
 
 
-PCB in 3D from the bottom:
+PCB in 3D from the top:
 <img width="1012" height="973" alt="Screenshot 2026-10-15 013549" src="https://github.com/user-attachments/assets/3c8b653a-256a-40cd-8a57-a03389ca9216" />
