@@ -1,7 +1,7 @@
 # Space-Pad
 This is an Open-Source code, design, and parts of my macro pad build.
 
-SpacePad is a customed macropad that has 6 switches and one rotary encoder( knob ) and a screen, all of these parts were programmed in KMK and all of the parts are attached to one customed PCB and assembled in 2-Parted case.
+Space-Pad is a customed macro-pad that has 6 shortcut switches, 1 rotary encoder (knob) to mute or change the sound volume, and a screen that displays whatever you want.
 
 General Appearence:
 <img width="1272" height="767" alt="Screenshot 2026-10-15 022606" src="https://github.com/user-attachments/assets/9fca1b49-8237-4329-9504-4dc5b44322ab" />
