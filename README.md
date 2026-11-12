@@ -1,19 +1,7 @@
 # Space-Pad
 This is an Open-Source code, design, and parts of my macro pad build.
 
-
-
-This is the list of my BOM:
-1-  1 unsoldered Seeed XIAO RP2040
-2-  6 through-hole 1N4148 Diodes
-3-  6 MX-Style switches
-4-  1 EC11E Rotary encoders (with switch)
-5-  1 0.91 inch OLED display
-6-  6 white blank DSA keycaps
-7-  8 SK6812 MINI-E LEDs
-8-  4 M3x16mm screws
-9-  4 M3x5mx4mm heatset inserts
-
+SpacePad is a customed macropad that has 6 switches and one rotary encoder( knob ) and a screen, all of these parts were programmed in KMK and all of the parts are attached to one customed PCB and assembled in 2-Parted case.
 
 <img width="772" height="645" alt="Screenshot 2026-10-15 013428" src="https://github.com/user-attachments/assets/e66648f5-7fc1-47db-b351-eafddbe3f02c" />
 <img width="780" height="650" alt="Screenshot 2026-10-15 013406" src="https://github.com/user-attachments/assets/e3bc68e8-227c-4d86-8381-43706f595211" />
